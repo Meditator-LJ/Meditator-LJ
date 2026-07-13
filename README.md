@@ -5,9 +5,6 @@
 I am currently a Ph.D. candidate at the National University of Defense Technology (NUDT), supervised by [Prof. Xiangke Wang (Senior Member, IEEE)](https://ieeexplore.ieee.org/author/37601066100) and [Assoc. Prof. Shulong Zhao](https://ieeexplore.ieee.org/author/37085636870).
 Previously, I obtained my Master's degree from the National University of Defense Technology (NUDT), and my Bachelor's degree from Northeastern University (NEU).
 
-My research vision aims to bridge **High-Fidelity 3D Vision** (NeRF/3DGS) and **Embodied Intelligence**.  
-I focus on building robust **Spatial Representations** and **World Models** that enable robots to understand and interact with dynamic environments.
-
 My research vision lies in **integrating event cameras (DVS) with RGB frame cameras** and **UAV guidance applications**.
 I focus on developing **cooperative guidance** and **UAV formation flight** algorithms, enabling unmanned aerial vehicles to acquire target information and implement autonomous guidance.
 
