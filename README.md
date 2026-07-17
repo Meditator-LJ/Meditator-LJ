@@ -14,6 +14,7 @@ I focus on developing **cooperative guidance** and **UAV formation flight** algo
 
 - *2026.03*: 🎉🎉 One Paper accepted to **IEEE Transactions on Aerospace and Electronic Systems (TAES)**!
 - *2025.08*: 🎉🎉 One Paper accepted to **IEEE Transactions on Aerospace and Electronic Systems (TAES)**!
+- *2024.09*: 🎉🎉 One Paper accepted to **IEEE Transactions on Automation Science and Engineering (TASE)**!
 - *2024.08*: 🎉🎉 One Paper accepted to **ICGNC 2024**!
 
 ---
@@ -28,6 +29,10 @@ I focus on developing **cooperative guidance** and **UAV formation flight** algo
 *TAES 2025*  
 **Jun Liu**, Kun Liu, Jiayi Zheng, Xiangke Wang, Shulong Zhao  
 [Paper](https://ieeexplore.ieee.org/document/11112580)
+- **Cooperative Moving Target Fencing Control for Two-Layer UAVs With Relative Measurements**
+*TASE 2024*
+Shulong Zhao, Jiayi Zheng, Kun Liu, **Jun Liu**, Xiangke Wang
+[Paper](https://ieeexplore.ieee.org/document/10691919)
 - **Label-free Multi-UAV Target Surround Collision Avoidance Control with Bearing-only Measurement**  
 *ICGNC 2024*  
 **Jun Liu**, Shulong Zhao, Jiayi Zheng, Kun Liu  
