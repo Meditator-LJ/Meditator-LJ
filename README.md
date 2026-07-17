@@ -1,4 +1,4 @@
-# Meditator_LJ
+# Meditator-LJ
 
 # Hi! I'm **Liu Jun**
 
