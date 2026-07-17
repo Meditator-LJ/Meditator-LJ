@@ -31,7 +31,7 @@ I focus on developing **cooperative guidance** and **UAV formation flight** algo
 [Paper](https://ieeexplore.ieee.org/document/11112580)
 - **Cooperative Moving Target Fencing Control for Two-Layer UAVs With Relative Measurements**
 *TASE 2024*
-Shulong Zhao, Jiayi Zheng, Kun Liu, **Jun Liu**, Xiangke Wang
+Shulong Zhao, Jiayi Zheng, Kun Liu, **Jun Liu**, Xiangke Wang  
 [Paper](https://ieeexplore.ieee.org/document/10691919)
 - **Label-free Multi-UAV Target Surround Collision Avoidance Control with Bearing-only Measurement**  
 *ICGNC 2024*  
